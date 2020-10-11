@@ -229,4 +229,6 @@ return [
 
     ],
 
+    'export_file_name' => 'Выгрузка книг'
+
 ];
